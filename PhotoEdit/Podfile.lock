@@ -1,0 +1,16 @@
+PODS:
+  - JPImageresizerView (0.5.3)
+
+DEPENDENCIES:
+  - JPImageresizerView
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - JPImageresizerView
+
+SPEC CHECKSUMS:
+  JPImageresizerView: eedd90ce2082fa10f104f4282e428cd1c3da86b9
+
+PODFILE CHECKSUM: b5844cd46b67ecaac42780ab0e774c0f17161db9
+
+COCOAPODS: 1.5.0
